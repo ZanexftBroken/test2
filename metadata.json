@@ -1,0 +1,6 @@
+{
+  "name": "Cool Chips",
+  "description": "Premium pre-loved authenticated sneakers, handpicked and restored to perfection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
